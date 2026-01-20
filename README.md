@@ -1,2 +1,2 @@
 # my-protfoilo-3
-my simple protfoilo about me
+my simple protfoilo about me This project is a personal portfolio website built using HTML and CSS. It is designed to introduce me (Omar Mahmoued) , highlight personal interests, showcase photography work, and provide direct contact and social media links. The website follows a clean, responsive layout suitable for a front-end developer or creative professional How to Run: Download or clone the project files. Ensure all images and the style.css file are in the correct directories. Open index.html in any modern web browser.
